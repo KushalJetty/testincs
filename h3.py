@@ -1,4 +1,4 @@
-from w2 import combinations
+from h2 import combinations
 
 n = 5
 r = 2
